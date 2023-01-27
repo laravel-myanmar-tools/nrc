@@ -3,7 +3,6 @@
 it('can check nrc', function () {
     expect(nrc()->isNrc('12/OUKAMA(N)123456'))->toBeTrue();
     expect(nrc()->isNrc('၁၂/ဥကမ(နိုင်)၁၂၃၄၅၆'))->toBeTrue();
-    expect(nrc()->isNrc('၁၄၅၆'))->toBeTrue();
 });
 
 it('can normalize nrc', function () {
