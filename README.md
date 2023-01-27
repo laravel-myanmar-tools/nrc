@@ -55,7 +55,7 @@ $nrc::macro('isYangon', function(string $nrc) {
    return Str::before($nrc, '/') == '12';
 });
 
-$nrc->isYangon('၁၂/ဥကမ(နိုင်)၁၂၃၄၅၆'); // return true
+$nrc->isYangon('12/OuKaMa(Naing)123456'); // return true
 ```
 
 ## Testing
