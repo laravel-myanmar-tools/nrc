@@ -6,8 +6,8 @@ use LaravelMyanmarTools\Nrc\Services\NrcPrefixService;
 
 trait CanCheckNrc
 {
-	public function isNrc(string $nrc): bool
-	{
-		return (new NrcPrefixService($nrc))->isNrc();
-	}
+    public function isNrc(string $nrc): bool
+    {
+        return (new NrcPrefixService($nrc))->isNrc();
+    }
 }

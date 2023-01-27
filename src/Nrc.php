@@ -8,7 +8,7 @@ use Spatie\Macroable\Macroable;
 
 class Nrc
 {
-	use CanCheckNrc,
-		CanNormalize,
-		Macroable;
+    use CanCheckNrc,
+        CanNormalize,
+        Macroable;
 }

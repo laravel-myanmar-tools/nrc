@@ -6,8 +6,8 @@ use LaravelMyanmarTools\Nrc\Services\NrcPrefixService;
 
 trait CanNormalize
 {
-	public function normalizeNrc(string $nrc): string
-	{
-		return (new NrcPrefixService($nrc))->normalizeNrc();
-	}
+    public function normalizeNrc(string $nrc): string
+    {
+        return (new NrcPrefixService($nrc))->normalizeNrc();
+    }
 }
