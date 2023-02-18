@@ -2,6 +2,10 @@
 
 All notable changes to `nrc` will be documented in this file.
 
+## v1.0.1 - 2023-02-18
+
+**Full Changelog**: https://github.com/Laravel-Myanmar-Tools/nrc/compare/v1.0.0...v1.0.1
+
 ## v1.0.0 - 2023-01-27
 
 ### What's Changed
