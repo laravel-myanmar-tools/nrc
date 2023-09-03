@@ -1,4 +1,5 @@
 [![Run tests](https://github.com/Laravel-Myanmar-Tools/nrc/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/Laravel-Myanmar-Tools/nrc/actions/workflows/run-tests.yml)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/Laravel-Myanmar-Tools/nrc)](https://packagist.org/packages/Laravel-Myanmar-Tools/nrc)
 
 # Nrc
 
